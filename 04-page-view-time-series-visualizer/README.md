@@ -13,4 +13,4 @@ Project #4 of the Data Analysis with Python Certification. Task was to visualize
 - Data Visualization
 
 ## Resolution
-Jupyter Notebook with my solution can be found [here](time_series_visualizer_krdo).
+Jupyter Notebook with my solution can be found [here](time_series_visualizer_krdo.ipynb).
