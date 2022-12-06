@@ -11,6 +11,7 @@ Project #4 of the Data Analysis with Python Certification. Task was to visualize
 ## Skills :nerd_face:
 - Data Cleaning
 - Data Visualization
+- Time Series Analysis
 
 ## Resolution
 Jupyter Notebook with my solution can be found [here](time_series_visualizer_krdo.ipynb).
